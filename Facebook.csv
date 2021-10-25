@@ -18,7 +18,7 @@ the,DET,DET
 area,NOUN,NOUN
 xCavern,NOUN,[]
 Club,NOUN,NOUN
-LiverpoolLuogo,NOUN,[]
+Liverpool,NOUN,[]
 One,NUM,NUM
 of,ADP,ADP
 the,DET,DET
@@ -75,7 +75,7 @@ again,ADV,ADV
 .,PUNCT,PUNCT
 Cavern,NOUN,NOUN
 Club,NOUN,NOUN
-LiverpoolLuogo,NOUN,[]
+Liverpool,NOUN,[]
 likes,NOUN,NOUN
 .,PUNCT,PUNCT
 Loved,VERB,VERB
@@ -97,7 +97,7 @@ go,VERB,VERB
 again,ADP,ADP
 Cavern,NOUN,[]
 Club,NOUN,NOUN
-LiverpoolLuogo,NOUN,[]
+Liverpool,NOUN,[]
 Wonderful,ADJ,ADJ
 and,CONJ,CONJ
 big,ADJ,ADJ
